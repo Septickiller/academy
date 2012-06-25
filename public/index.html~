@@ -90,7 +90,7 @@
 		</div>
 			<div class="row">
         <div class="span7"><h3>Check out our first challenge, where you will learn the science behind the first manned mission to the moon!</h3> </div>
-		 <div class="span4 offset1"> <a href="http://www.moonshotchallenge.com" class="btn" ><button type="submit" value="View the challenge!" name="subscribe" class="button btn btn-large">View the challenge!</button></a></div>
+		 <div class="span4 offset1"> <a href="http://www.moonshotchallenge.com" class="bbtn" ><button type="submit" value="View the challenge!" name="subscribe" class="button btn btn-large">View the challenge!</button></a></div>
 		</div>
 		
 		<div class="row" style="margin-top:50px">
@@ -101,13 +101,13 @@
 		</div>
 		<div class="span4">
 		<img class="thumbnail" src="http://placehold.it/270x160" alt="">
-		<h2>Learn real concepts</h2> <br>
-		<h4>Learning with us will introduce you in the real world science, from sending a rocket to the moon to building a solar panel.</h4>		
+		<h2>Learn with your friends</h2> <br>
+		<h4>Invite your friends and keep updated on their status. Team up to solve complex challenges or compete in experiments!</h4>		
 		</div>
 		<div class="span4">
 		<img class="thumbnail" src="http://placehold.it/270x160" alt="">
-		<h2>Learn real concepts</h2> <br>
-		<h4>Learning with us will introduce you in the real world science, from sending a rocket to the moon to building a solar panel.</h4>		
+		<h2>Win prizes in sponsored challenges</h2> <br>
+		<h4>Prove your knowlege and ingenuity and solve real science, technology or engineering challenges for prizes.</h4>		
 		</div>
 		</div>
 				
