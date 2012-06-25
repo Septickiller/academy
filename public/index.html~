@@ -81,10 +81,7 @@
 		</div>
       </div>
 
-	
-	
-    <div class="container head">
-
+	   <div class="container head">
   		<div class="row">
 		<div class="span11"> 
 		<h1> Science and technology made easy.</h1> <br><br>
@@ -93,7 +90,7 @@
 		</div>
 			<div class="row">
         <div class="span7"><h3>Check out our first challenge, where you will learn the science behind the first manned mission to the moon!</h3> </div>
-		 <div class="span4 offset1" <a href="http://www.moonshotchallenge.com" ><input type="submit" value="View the challenge!" name="subscribe" class="button btn btn-large"></a></div>
+		 <div class="span4 offset1"> <a href="http://www.moonshotchallenge.com" ><button type="submit" value="View the challenge!" name="subscribe" class="button btn btn-large">View the challenge!</button></a></div>
 		</div>
 		
 		<div class="row" style="margin-top:50px">
@@ -121,7 +118,7 @@
 		<footer>
 		<div class="container">
 		<div class="row">
-		<p style="margin-left:30px; margin-top:300px"> &copy; Moonshot Academy 2012. Image courtesy of NASA.</p>
+		<p style="margin-left:30px; margin-top:30px"> &copy; Moonshot Academy 2012. Image courtesy of NASA.</p>
       </div>
         </div>
       </footer>    
