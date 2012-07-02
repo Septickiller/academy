@@ -78,7 +78,7 @@
 		</div>
       </div>
 
-	   <div class="container head">
+	   <div class="container head" style="margin-top:180px">
   		<div class="row">
 		<div class="span11"> 
 		<h1> Science and technology made easy.</h1> <br><br>
@@ -89,12 +89,12 @@
       <img src="images/checkbox.png" alt="checkbox" > A motivating learning challenge spanning over several weeks  <br>
       <img src="images/checkbox.png" alt="checkbox" > A weekly feed of theoretical content and applied tasks that lead to solving the challenge   <br>
 		<img src="images/checkbox.png" alt="checkbox" > Live webinars with industry experts  <br>
-		<img src="images/checkbox.png" alt="checkbox" > The ability to track your progress      
+		<img src="images/checkbox.png" alt="checkbox" > You can track your progress and solve challenges with friends      
       </div>
 		 <div class="span4 offset1"> <a href="http://www.moonshotchallenge.com" class="bbtn" ><button type="submit" value="View the challenge!" name="subscribe" class="button btn btn-large">Sign up for our first challenge!</button></a></div>
 		</div>
 		
-		<div class="row" style="margin-top:50px">
+	<!--	<div class="row" style="margin-top:50px">
 		<div class="span4">
 		<img class="thumbnail" src="http://placehold.it/270x160" alt="">
 		<h2>Learn real concepts</h2> <br>
@@ -111,17 +111,18 @@
 		<h4>Prove your knowlege and ingenuity and solve real science, technology or engineering challenges for prizes.</h4>		
 		</div>
 		</div>
-				
+				-->
 	</div>
 	</div>
 		</div>
 		<footer>
 		<div class="container">
 		<div class="row">
-		<p style="margin-left:30px; margin-top:30px"> &copy; Moonshot Academy 2012. Image courtesy of NASA.</p>
+		<p style="margin-left:30px; margin-top:100px"> &copy; Moonshot Academy 2012. Image courtesy of NASA.</p>
       </div>
         </div>
       </footer>    
+   
     <!-- Le javascript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
