@@ -60,9 +60,6 @@
   })();
 </script>
 
-
-
-
 	<div id="header"></div>
   </div>
      <div class="navbar navbar-fixed-top">
@@ -85,12 +82,16 @@
   		<div class="row">
 		<div class="span11"> 
 		<h1> Science and technology made easy.</h1> <br><br>
-		<h3> Moonshot Academy is the easiest way to learn science and technology! Bringing a challenge/experiment approach, we make learning interactive and fun. Bring your friends to colaborate or compete with! </h3> <br>
-		</div>
-		</div>
-			<div class="row">
-        <div class="span7"><h3>Check out our first challenge, where you will learn the science behind the first manned mission to the moon!</h3> </div>
-		 <div class="span4 offset1"> <a href="http://www.moonshotchallenge.com" class="bbtn" ><button type="submit" value="View the challenge!" name="subscribe" class="button btn btn-large">View the challenge!</button></a></div>
+		<h3> Moonshot Academy is the easiest way to learn science and technology! </h3> <br>
+		</div> </div>
+		<div class="row">
+      <div class="span7">
+      <img src="images/checkbox.png" alt="checkbox" > A motivating learning challenge spanning over several weeks  <br>
+      <img src="images/checkbox.png" alt="checkbox" > A weekly feed of theoretical content and applied tasks that lead to solving the challenge   <br>
+		<img src="images/checkbox.png" alt="checkbox" > Live webinars with industry experts  <br>
+		<img src="images/checkbox.png" alt="checkbox" > The ability to track your progress      
+      </div>
+		 <div class="span4 offset1"> <a href="http://www.moonshotchallenge.com" class="bbtn" ><button type="submit" value="View the challenge!" name="subscribe" class="button btn btn-large">Sign up for our first challenge!</button></a></div>
 		</div>
 		
 		<div class="row" style="margin-top:50px">
